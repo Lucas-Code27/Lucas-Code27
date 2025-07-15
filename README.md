@@ -5,7 +5,6 @@
 # Interests
 - Retro Consoles
 - Game Development
-- Technology in general
 
 <!--
 **Lucas-Code27/Lucas-Code27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
